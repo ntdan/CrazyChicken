@@ -111,4 +111,16 @@
       <option name="ENABLED" value="true" />
     </filter>
   </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://github.com/ntdan/CrazyChicken.git" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://github.com/ntdan/CrazyChicken.git" />
+      </list>
+    </option>
+  </component>
 </application>
