@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\2_DaoTao_BaiGiang\\Android\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\raw\\dance.wav",
+        "source": "E:\\2_DaoTao_BaiGiang\\Android\\AndroidStudioProjects\\app\\src\\main\\res\\raw\\dance.wav"
+    },
+    {
+        "merged": "E:\\2_DaoTao_BaiGiang\\Android\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "E:\\2_DaoTao_BaiGiang\\Android\\AndroidStudioProjects\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics-impl\\9.4.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "E:\\2_DaoTao_BaiGiang\\Android\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\raw\\coin.wav",
+        "source": "E:\\2_DaoTao_BaiGiang\\Android\\AndroidStudioProjects\\app\\src\\main\\res\\raw\\coin.wav"
+    },
+    {
+        "merged": "E:\\2_DaoTao_BaiGiang\\Android\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\raw\\tienggamai.mp3",
+        "source": "E:\\2_DaoTao_BaiGiang\\Android\\AndroidStudioProjects\\app\\src\\main\\res\\raw\\tienggamai.mp3"
+    }
+]
