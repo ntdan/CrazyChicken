@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\2_DaoTao_BaiGiang\\Android\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\menu\\game_over.xml",
+        "source": "E:\\2_DaoTao_BaiGiang\\Android\\AndroidStudioProjects\\app\\src\\main\\res\\menu\\game_over.xml"
+    },
+    {
+        "merged": "E:\\2_DaoTao_BaiGiang\\Android\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\menu\\giao_dien_chinh.xml",
+        "source": "E:\\2_DaoTao_BaiGiang\\Android\\AndroidStudioProjects\\app\\src\\main\\res\\menu\\giao_dien_chinh.xml"
+    },
+    {
+        "merged": "E:\\2_DaoTao_BaiGiang\\Android\\AndroidStudioProjects\\app\\build\\intermediates\\res\\merged\\debug\\menu\\flash_screen.xml",
+        "source": "E:\\2_DaoTao_BaiGiang\\Android\\AndroidStudioProjects\\app\\src\\main\\res\\menu\\flash_screen.xml"
+    }
+]
